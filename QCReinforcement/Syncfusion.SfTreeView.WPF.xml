@@ -3142,9 +3142,9 @@
             <param name="sender">The sender.</param>
             <param name="e">The SizeChangedEventArgs.</param>
         </member>
-        <member name="M:Syncfusion.UI.Xaml.TreeView.SfTreeView.OnKeyDown(System.Windows.Input.KeyEventArgs)">
+        <member name="M:Syncfusion.UI.Xaml.TreeView.SfTreeView.OnPreviewKeyDown(System.Windows.Input.KeyEventArgs)">
             <summary>
-            Invoked when the <c>KeyDown</c> attached event reaches an element in its route that is derived from this class.
+            Invoked when the <c>PreviewKeyDown</c> attached event reaches an element in its route that is derived from this class.
             Implement this method to add class handling for this event.
             </summary>
             <param name="e">
